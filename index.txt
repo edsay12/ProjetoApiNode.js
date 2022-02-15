@@ -1,0 +1,5 @@
+-- Configurando o projeto
+
+1-) Fazer o model a migrations de usuario
+2-) Fazer o model de usuarios
+3-) Instalar o bcryptjs -> npm i bcryptjs
