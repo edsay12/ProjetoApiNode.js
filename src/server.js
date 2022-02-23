@@ -4,5 +4,6 @@ import app from "./app";
 
 
 
-
-app.listen(process.env.APP_PORT);
+app.listen(3001,()=>{
+ 
+});
