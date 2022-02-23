@@ -1,0 +1,5 @@
+npx sequelize seed:generate --name criar-usuarios
+
+seeds -> E basicamente um arquivo cheio de inserts :)
+
+npx sequelize migration:create --name=mudar-email-aluno-unique -> criando uma migration
